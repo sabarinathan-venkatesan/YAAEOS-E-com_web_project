@@ -1,6 +1,5 @@
 # YAAEOS-E-com_web_project-
 
-Here's a 10-line summary of your e-commerce fashion store, YAAEOS, and details about HTML, CSS, and JavaScript:
 
 **Summary of YAAEOS:**
 1. YAAEOS is an e-commerce fashion store designed for a seamless online shopping experience.
