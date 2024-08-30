@@ -1,0 +1,227 @@
+
+
+/* .yaaeos-img{
+    padding-right: 40px;
+}
+
+
+.top-box{
+    width: 750;
+    height: 120px;
+    top: 0;
+    left: 0;
+    background-color: #1d1313;
+    box-sizing: border-box;
+    
+
+} */
+ 
+
+.top-box{
+    border: 2px solid #1d1313;
+    background-color: #1d1313;
+    height: 110px;
+    width: 1500px;
+    
+    
+}
+
+/* DROP DOWN MENU BAR */
+
+.dropbtn
+{
+    color: black;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(219, 219, 219);
+    
+    
+}
+
+.dropdown{
+    position: relative;
+    height:30px;
+    margin-left:180px;
+}
+
+.dropdown-content
+{
+    padding: 10px;
+    display: none;
+    position: absolute;
+    font-size: 16px;
+    background-color: rgb(219, 219, 219);
+    min-width: 180px;
+    box-shadow: 5px 8px 15px rgba(0,0,0,0.2);
+    margin-top:5px;
+}
+
+.dropdown-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover{
+    cursor: pointer;
+    background-color:rgb(219, 219, 219);
+    color:red;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color:rgb(219, 219, 219) ;
+    color: #000000;
+    
+}
+
+.fashion img{
+    border: 3px ridge rgb(125, 69, 69);
+    margin-top: 10px;
+    margin-right: 20px;
+    
+}
+
+.scrolling marquee{
+    margin-top: 150px;
+    
+}
+.row .col p{
+    letter-spacing: normal;
+    letter-spacing: normal;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+
+
+.row .col button{
+    
+    border: none;
+    color: white;
+    background-color: #319ebf;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 0px 30px 0 30px;
+    
+}
+
+/* LUXE STYLE */
+
+#luxe .container-fluid .row .col img{
+    width: 250px;
+    height: 200px;
+}
+.row .col button{
+    
+    border: none;
+    color: white;
+    background-color: #319ebf;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 0px 40px 3px 40px;
+    
+}
+
+.row .col p{
+    letter-spacing: normal;
+    letter-spacing: normal;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    margin-bottom: 3px;
+    font-weight: 400;
+}
+
+/* T-SHIRT SECTION */
+
+.t-shirts .row .col img {
+    width: 300px;
+    height: 400px;
+    margin-left: 70px;
+}
+
+.t-shirts .row .col p{
+    margin-left: 100px;
+}
+.t-shirts .row .col button{
+    margin-left: 100px;
+}
+
+.t-m:hover{
+    cursor: pointer;
+    color: red;
+}
+
+
+/* Footer OBC */
+
+.backtotop p{
+    
+    color: white;
+    text-align: center;
+    padding-top:11px; 
+    padding-bottom: 11px;
+    background-color: #c59c2a;
+}
+.backtotop p:hover {
+    background-color: #f0bc2f;
+    font-weight: 400;
+}
+
+.footerbody{
+    background-color: #1d1313;
+    margin-top: -17px;
+  
+}
+
+.footerbody{
+    border: 2px #1d1313 solid;
+    background-color: #1d1313;
+    height: 522px;
+    width: 100%;
+    position: absolute;
+}
+.footerbody ul li{
+    
+    color: white;
+    font-weight: 50;
+    list-style-type: none;
+
+}
+.footerbody .b{
+    margin-top: 12%;
+    font-weight: 500;
+    font-size: 13px; 
+    color: white;
+}
+.footerbody .b img{
+    width: 200px;
+    height: 100px;
+    margin-left: -30px ;
+    margin-top: 20px;
+    
+}
+.app ul li{
+    display: inline-block;
+    padding-left: 5px;
+}
+.social-media-icons ul{
+    margin-left: -30px;
+}
+
+.onlineshopping li a{
+    text-decoration: none;
+    color: white;
+}
+
+.footerbody li:hover{
+    font-weight: 400;
+}

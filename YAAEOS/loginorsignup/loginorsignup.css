@@ -1,0 +1,48 @@
+.logo{
+    position: absolute;
+    margin-left: 42%;
+}
+.in{
+    position: absolute;
+    margin-left: 52%;
+    margin-top: 7.5%;
+}
+
+.inner-content h1{
+    position: absolute;
+    margin-left: 38%;
+    margin-top: 12%;
+    font-size: 25px;
+    font-weight: 100;
+        
+}
+.mobile-or-email{
+    position: absolute;
+    margin-left: 38.1%;
+    margin-top: 14.6%;
+    font-size: 16px;
+    font-weight: 600;
+}
+.mobile-or-email-input input{
+    position: absolute;
+    width: 250px;
+    height: 25px;
+}
+.continue-a a{
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #1d1313;
+    font-size: 17px;
+    margin: 22% 30% 0 38%;
+    height: 30px;
+    width: 260px;
+    padding-top: 7px;
+    
+}
+.continue-a a:hover{
+    width: 263px;
+    height: 33px;
+    background-color: #3d2f2f;
+}
