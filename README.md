@@ -1,6 +1,6 @@
 # YAAEOS-E-com_web_project-
 
-![Homepage Screenshot](assets/homepage.png)
+![Homepage Screenshot](https://github.com/sabarinathan-venkatesan/YAAEOS-E-com_web_project/blob/main/YAAEOS/assets/homepage.png)
 
 **Summary of YAAEOS:**
 1. YAAEOS is an e-commerce fashion store designed for a seamless online shopping experience.
